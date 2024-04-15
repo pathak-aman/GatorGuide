@@ -1,0 +1,13 @@
+langchain
+pandas
+streamlit
+streamlit_chat
+python-dotenv
+llama-index-llms-ollama
+langchain_openai
+langchain_community
+langchain_core
+huggingface
+datasets
+ftfy
+bert_score

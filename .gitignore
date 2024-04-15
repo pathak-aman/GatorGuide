@@ -1,0 +1,7 @@
+/outputs/cleaned_augmented_clinical_notes.csv
+/datasets/
+/notes/
+/gemini_chats/
+.idea
+__pycache__/
+.env

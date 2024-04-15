@@ -1,0 +1,67 @@
+Section Header,Question Theme,Question
+Admission,Reason for Admission,What is the primary reason for the patient's admission?
+Admission,Date of Admission,What is the date the patient was admitted?
+Admission,Care Center Details,"Where was the patient admitted (e.g., hospital name, department)?"
+Admission,Length of Stay,How long did the patient stay in the care center? (Optional)
+Patient Information,Age,What is the patient's age?
+Patient Information,Sex,What is the patient's sex assigned at birth?
+Patient Information,Ethnicity,What is the patient's ethnicity? (Optional: Include options if known)
+Patient Information,Socioeconomic Context,"Does the note mention any details about the patient's socioeconomic background (e.g., occupation, insurance status)?"
+Patient Information,Presenting Complaint,What are the patient's main symptoms or concerns upon admission?
+Patient Information,Past Medical History,"Does the note mention any relevant past medical conditions (e.g., surgeries, chronic illnesses)?"
+Patient Information,Family Medical History,Does the note mention any significant family history of medical conditions?
+Patient Information,Recent Travel History,"Did the patient travel recently, and could it be relevant to the current condition? (Optional)"
+Patient Medical History,Smoking Status,Does the note mention the patient's smoking history? (Optional)
+Patient Medical History,Psychological Context,"Does the note mention any relevant psychological conditions (e.g., anxiety, depression)?"
+Patient Medical History,Drug Usage,Does the note mention any drug usage?
+Patient Medical History,Allergies,Does the patient have any allergies to medications or other substances?
+Patient Medical History,Smoking Status,"Does the note mention the patient's smoking history (e.g., current smoker, pack-years)?"
+Patient Medical History,Nutrition,"Does the note mention any dietary restrictions or concerns (e.g., allergies, weight management)?"
+Patient Medical History,Physiological Context (Optional),"Does the note mention any relevant physiological conditions (e.g., vital signs, weight, height)?"
+Patient Medical History,Sexual History (Optional),"Does the note mention any relevant sexual history details (e.g., sexually transmitted infections)? (Use with caution and only when relevant)"
+Patient Medical History,Exercise Frequency (Optional),Does the note mention the patient's exercise habits?
+Patient Medical History,Alcohol Consumption,"Does the note mention the patient's alcohol consumption habits (e.g., frequency, amount)?"
+Patient Medical History,Vaccination History (Optional),Does the note mention any recent vaccinations or the patient's immunization status?
+Diagnosis Tests,Test,What diagnostic test(s) were performed?
+Diagnosis Tests,Time,When was the test performed?
+Diagnosis Tests,Result,"What were the results of the test (e.g., normal, abnormal)?"
+Diagnosis Tests,Details (Optional),"Are there any specific details mentioned about the test results (e.g., specific values, interpretations)?"
+Diagnosis Tests,Condition (Optional),What medical condition was the test intended to diagnose or investigate?
+Diagnosis Tests,Severity (Optional),Does the note indicate the severity of the condition based on the test results?
+Medical Examinations,Name,"What specific medical examination was performed (e.g., X-ray, blood test)?"
+Medical Examinations,Result,"What were the results of the examination (e.g., normal, abnormal)?"
+Medical Examinations,Details (Optional),Are there any specific details mentioned about the examination findings?
+Surgeries,Type,What type of surgery was performed?
+Surgeries,Reason,What was the reason for the surgery?
+Surgeries,Time,When was the surgery performed?
+Surgeries,Outcome,"What was the outcome of the surgery (e.g., successful, complications)?"
+Surgeries,Details (Optional),Are there any specific details mentioned about the surgical procedure or complications?
+Symptoms,Name of Symptom,What specific symptom(s) did the patient report?
+Symptoms,Time,When did the symptom(s) start?
+Symptoms,Location,"Where is the symptom located (e.g., body part)?"
+Symptoms,Intensity of Symptom,"What is the intensity of the symptom (e.g., mild, moderate, severe)?"
+Symptoms,Temporalisation,"How does the symptom change over time (e.g., constant, intermittent, worsening)?"
+Symptoms,Behaviors Affecting Symptom,"Are there any behaviors that affect the symptom (e.g., activities that worsen it)?"
+Symptoms,Details (Optional),"Are there any additional details mentioned about the symptom (e.g., associated symptoms, quality of the symptom)?"
+Treatments,Name,What medication or treatment was administered?
+Treatments,Reason for Taking,Why was this treatment initiated?
+Treatments,Related Condition,What specific condition was the treatment intended to address?
+Treatments,Time,When was the treatment initiated?
+Treatments,Duration,How long did the patient receive the treatment?
+Treatments,Dosage,What was the dosage of the medication or treatment?
+Treatments,Frequency,How often was the medication or treatment administered?
+Treatments,Reaction to Treatment,Did the patient experience any side effects or reactions to the treatment?
+Treatments,Details (Optional),"Are there any additional details mentioned about the treatment (e.g., route of administration, specific instructions)?"
+Discharge,Reason,Why was the patient discharged from the care center?
+Discharge,Discharge Summary,What is a brief summary of the patient's condition and treatment plan at discharge?
+Discharge,Follow Up,Are there any follow-up appointments or instructions for the patient?
+Discharge,Referral,Was the patient referred to any other healthcare providers or specialists?
+Treatments,Name,What medication or treatment was administered?
+Treatments,Reason for Taking,Why was this treatment given?
+Treatments,Related Condition,What specific condition was the treatment intended for?
+Treatments,Time,When was the treatment initiated?
+Treatments,Duration,For how long was the treatment administered?
+Treatments,Dosage,What was the dosage of the medication or treatment?
+Treatments,Frequency,How often was the treatment administered?
+Treatments,Reaction to Treatment,Did the patient experience any side effects or reactions to the treatment?
+Treatments,Details (Optional),"Are there any additional details mentioned about the treatment (e.g., route of administration, specific instructions)?"
