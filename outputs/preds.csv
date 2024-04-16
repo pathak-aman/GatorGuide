@@ -1,0 +1,326 @@
+,idx,section_1,section_2,section_1_ground_truth_summary,section_2_ground_truth_summary,ground_truth_summary,full_note_and_questions,llama2_response,gpt3_response,ground_truth_response
+0,96217,Surgeries,Symptoms,"
+Surgeries: No information","
+Symptoms:The patient reports Altered sensorium for the past Postictal. Child was in altered sensorium with a Glasgow coma score (pediatric) of 12.The patient reports Right hemiparesis in the Right side for the past PostictalThe patient reports Significant pallor. Child had significant pallor but was hemodynamically stable.The patient reports Facial puffiness in the Face. Developed during hospitalization.The patient reports Hypertension. Developed during hospitalization.","Visit Motivation: The patient reported Presented with right focal seizures
+Admission: The patient was admitted for Right focal seizures, postictal altered sensorium, and right hemiparesis on Day 6 of illness at Referred to us.
+Patient Information: The patient is 10-month-old and boy and Second born of third degree consanguineous parents.
+Medical History: The patient's physiological context is Developmentally normal, have been reported.
+Surgeries: No information
+Symptoms: The patient reports Altered sensorium for the past Postictal. Child was in altered sensorium with a Glasgow coma score (pediatric) of 12. The patient reports Right hemiparesis in the Right side for the past Postictal The patient reports Significant pallor. Child had significant pallor but was hemodynamically stable. The patient reports Facial puffiness in the Face. Developed during hospitalization. The patient reports Hypertension. Developed during hospitalization.
+Medical Examinations: Glasgow Coma Score (Pediatric) examination revealed 12 Peripheral Pulses Examination examination revealed All peripheral pulses were well-palpable Echocardiography examination revealed Essentially normal
+Diagnosis Tests: The MRI brain test revealed Confirmed left middle cerebral artery territory AIS consistent with Acute ischemic stroke (AIS). The MR angiography test revealed Sudden cut-off in left internal carotid artery just after the origin with complete occlusion consistent with Possible dissection could not be ruled out. additional details include Intracranial left internal carotid artery and its branches were also not visualized and there were no significant collaterals. The Sonography and Doppler of neck vessels test revealed Left internal carotid artery could not be visualized The Blood investigations test revealed Normocytic normochromic anemia with a normal platelet and total leucocyte count additional details include By the fourth day of hospitalization, developed thrombocytopenia with elevated lactate dehydrogenase (LDH). The Peripheral smear examination test revealed Schistocytes (4%-5%) with a low reticulocyte count The Serum vitamin B12, folate, plasma homocysteine, and C3 levels test revealed Within normal limits
+Treatments: The patient received Fresh frozen plasma transfusion treatment for Congenital thrombotic thrombocytopenic purpura (TTP)/hemolytic uremic syndrome (HUS) to Working diagnosis of congenital TTP/HUS on Daily. Daily times.. which had Improvement in platelet counts to >1 lac/mm3 with normalization of blood pressure. The patient received Plasma Exchange (PEX) treatment for Congenital thrombotic thrombocytopenic purpura (TTP)/hemolytic uremic syndrome (HUS) to Working diagnosis of congenital TTP/HUS
+Discharge: No information","[Start Full note:]
+A 10-month-old developmentally normal boy, second born of third degree consanguineous parents, presented with right focal seizures. Postictally, the child had altered sensorium along with right hemiparesis. He was hospitalized for the same and was later referred to us on day 6 of illness.\nAt admission, the child was in altered sensorium with a Glasgow coma score (pediatric) of 12. He had significant pallor but was hemodynamically stable. All peripheral pulses were well- palpable. Clinical diagnosis of left middle cerebral artery territory AIS was kept and MRI brain confirmed the same []. MR angiography revealed a sudden cut-off in left internal carotid artery just after the origin with complete occlusion of the same but dissection could not be ruled out. Intracranial left internal carotid artery and its branches were also not visualized and there were no significant collaterals []. On sonography and Doppler of neck vessels, left internal carotid artery could not be visualized. Echocardiography was essentially normal.\nThe child was extensively evaluated for all possible risk factors contributing to stroke, detailed in . His blood investigations revealed a normocytic normochromic anemia (MCV = 94 μl) with a normal platelet and total leucocyte count. By the fourth day of hospitalization, he developed thrombocytopenia with elevated lactate dehydrogenase (LDH). Peripheral smear examination showed schistocytes (4%-5%) with a low reticulocyte count. His serum vitamin B12, folate, plasma homocysteine, and C3 levels were within normal limits. Subsequently, a gradual decline of hemoglobin levels and platelet count was noted. In addition to the evolution of bicytopenia, he also developed facial puffiness with hypertension. A working diagnosis of congenital thrombotic thrombocytopenic purpura (TTP)/hemolytic uremic syndrome (HUS) was considered and clinical exome sequencing was ordered. He was started on daily fresh frozen plasma transfusion followed by Plasma Exchange (PEX). Once platelet counts improved to >1 lac/mm3 with normalization of blood pressure records, the child was switched to oral steroids which were continued for about a month and gradually tapered monitoring the platelet count.\nExome sequencing revealed a novel homozygous nonsense variation in exon 2 of the SLC19A2 gene (chr1:169446604; G>C; Depth: 119x) that results in a stop codon and premature truncation of the protein at codon 199 (p. Ser199Ter; ENST00000236137). The region is conserved across species. The detected variant was predicted to be damaging by SIFT, LRT and Mutation Taster and was likely pathogenic.\nAt 3-month follow-up, the child developed sensorineural hearing loss. Bone marrow aspirate revealed cellular marrow with adequate megakaryocytosis and erythroid series showed megaloblastic maturation. HbA1c was 6.7 g/dl (normal < 6.5%). Child was initiated on thiamine in supratherapeutic doses (500 mg/day). Currently, at 2-year follow-up, hematological parameters are within normal limits. There has not been any recurrence of stroke. He failed a hearing-aid trial and has been planned for cochlear implant surgery. Informed consent was obtained from parents for publication.\nThiamine responsive megaloblastic anemia (Roger syndrome) is characterized by a clinical triad of megaloblastic anemia, deafness, and diabetes. Megaloblastic anemia and diabetes may manifest from infancy to adolescence while deafness usually manifests in the toddler age group. This entity was first described in 1969 by Roger et al.[] It is caused by a mutation in SLC19A2 gene, which encodes the high-affinity thiamine transporter. Besides classical triad, other features include abnormalities of retina and optic nerve, stroke-like episodes, congenital heart disease, arrhythmias, aminoaciduria, tri-lineage myelodysplasia, short stature, and situs inversus.\nThiamine deficiency is known to affect respiratory chain complex I activity. The neurological features of TRMA, resembling those of mitochondrial complex I deficiency, may be caused due to a secondary defect in mitochondrial energy production.[] But, the association with stroke and pathophysiology of stroke in TRMA is unclear.\nTill date, there are two patients with TRMA reported with AIS and one with cerebral sinus thrombosis.[] Possible pathogenic mechanisms include: Mapping of human coagulation factor V and antithrombin III precursor to nearby region as SLC19A2 gene (a complex mutational event in this region may also involve coagulation cascade genes, causing susceptibility to thrombosis)[] and prothrombotic tendency due to hyperglycemic state (increased levels of plasminogen activator inhibitor-1 and the decreased endogenous fibrinolysis activity).[] Besides these, the clinical spectrum of TRMA is still evolving due to the rarity of this disorder; microvascular and coagulation pathway affection are still ambiguous. Also, the role of a particular genotype causing disease and stroke as a presenting feature is also unclear.\nOur initial clinical possibility in the index patient was congenital HUS/TTP in view of thrombocytopenia, hypertension, consanguinity and early infantile onset, and exome sequencing was done suspecting the same. But it revealed a likely pathogenic variation in the gene for TRMA. Anecdotal reports suggest that TRMA may be associated with stroke however its association with TTP/HUS is speculative. There have been rare reports of atypical HUS associated with cobalamin C defect which presents with megaloblastic anemia, methylmalonic acidemia, and homocystinuria.[] However, no direct link between TRMA and HUS/TTP have been mentioned. Both acquired HUS and TRMA seem to have coexisted in the index case and this probable unusual association merits documentation.\nThe basis for responsiveness of thrombocytopenia to plasma exchange in the index case is uncertain. Possibilities include superadded consumption coagulopathy, acquired hemolytic uremic syndrome/TTP, thiamine repletion, and prothrombotic state due to disease per se which also might have responded to plasma exchange.\nThis patient had two uncommon manifestations of this rare disorder: AIS and thrombocytopenia. Also, the child had a novel nonsense mutation in SLC19A2 gene. History of consanguinity, in this case, was another pointer towards a genetic disorder. Later, clinical features such as sensorineural hearing loss and slightly elevated HbA1c confirmed the clinical phenotype.\nThis case brings forth association between TRMA, prothrombotic state, and AIS; although the exact physiological basis still remains indeterminate. TRMA as a possible risk factor for stroke still remains a mystery. Evolving phenotypic spectrum of this disease might make the intricate pathways more lucid.\nThe authors certify that they have obtained all appropriate patient consent forms. In the form the patient(s) has/have given his/her/their consent for his/her/their images and other clinical information to be reported in the journal. The patients understand that their names and initials will not be published and due efforts will be made to conceal their identity, but anonymity cannot be guaranteed.\nNil.\nThere are no conflicts of interest.
+[End Full note]
+
+[Start Random questions]
+
+** Surgeries **
+* Details (Optional) : Are there any specific details mentioned about the surgical procedure or complications?
+* Reason : What was the reason for the surgery?
+* Type : What type of surgery was performed?
+* Outcome : What was the outcome of the surgery (e.g., successful, complications)?
+* Time : When was the surgery performed?
+
+** Symptoms **
+* Temporalisation : How does the symptom change over time (e.g., constant, intermittent, worsening)?
+* Intensity of Symptom : What is the intensity of the symptom (e.g., mild, moderate, severe)?
+* Location : Where is the symptom located (e.g., body part)?
+* Name of Symptom : What specific symptom(s) did the patient report?
+* Behaviors Affecting Symptom : Are there any behaviors that affect the symptom (e.g., activities that worsen it)?
+* Details (Optional) : Are there any additional details mentioned about the symptom (e.g., associated symptoms, quality of the symptom)?
+* Time : When did the symptom(s) start?
+[End Random questions]","Surgeries:
+
+* The patient underwent cochlear implant surgery.
+* Details (Optional): The procedure was performed by a skilled neurosurgeon, and the patient was placed under general anesthesia. There were no complications during or after the surgery.
+* Reason: The patient had severe to profound sensorineural hearing loss in both ears, which significantly affected their communication and quality of life.
+* Type: Cochlear implant surgery is a type of neurosurgery that involves implanting an electronic device in the inner ear to restore hearing.
+* Outcome: The outcome of the surgery was successful, with the patient experiencing significant improvement in their hearing ability.
+* Time: The surgery was performed 6 months after the onset of symptoms.
+
+Symptoms:
+
+* Temporalisation: The symptoms have been present since infancy and have gradually worsened over time.
+* Intensity of Symptom: The symptoms are severe, affecting the patient's ability to communicate and interact with their environment.
+* Location: The symptoms are located in both ears.
+* Name of Symptom: The patient experiences deafness and diabetes.
+* Behaviors Affecting Symptom: The patient has difficulty communicating and expressing themselves due to the deafness, which can lead to frustration and isolation.
+* Details (Optional): The patient's hearing loss is severe and progressive, with a gradual decline in their ability to hear over time.
+* Time: The symptoms started at birth and have been present throughout the patient's life.","** Surgeries **
+- Details (Optional) : No specific details about the surgical procedure or complications are mentioned in the note.
+- Reason : The reason for the surgery was not mentioned in the note.
+- Type : The type of surgery performed was cochlear implant surgery.
+- Outcome : The outcome of the surgery is not explicitly mentioned, but it is stated that the child failed a hearing-aid trial and has been planned for cochlear implant surgery.
+- Time : The surgery was planned at the 2-year follow-up.
+
+** Symptoms **
+- Temporalisation : The symptoms mentioned in the note do not specify how they change over time.
+- Intensity of Symptom : The intensity of the symptoms is not described in terms of mild, moderate, or severe.
+- Location : The symptoms mentioned in the note include right focal seizures, altered sensorium, right hemiparesis, facial puffiness, and hypertension.
+- Name of Symptom : The specific symptoms reported by the patient include right focal seizures, altered sensorium, right hemiparesis, facial puffiness, hypertension, sensorineural hearing loss, and megaloblastic anemia.
+- Behaviors Affecting Symptom : No information is provided about behaviors affecting the symptoms.
+- Details (Optional) : Additional details about the symptoms include the presence of right focal seizures, altered sensorium along with right hemiparesis, and facial puffiness with hypertension.
+- Time : The symptoms started at 10 months of age with right focal seizures.",
+1,115260,Admission,Patient Medical History,"
+Admission:The patient was admitted for Sudden appearance of a painless mass in the left neck region and stayed for 2 days.","
+Medical History:The patient's physiological context is No underlying disease, have been reported.","Visit Motivation: The patient reported Painless mass in the left neck region
+Admission: The patient was admitted for Sudden appearance of a painless mass in the left neck region and stayed for 2 days.
+Patient Information: The patient is 46 and Woman.
+Medical History: The patient's physiological context is No underlying disease, have been reported.
+Surgeries: A Excision of venous aneurysm surgery was performed to Prevent recurrent thrombosis and thromboembolism with an outcome of Successful, no complications. additional details include Surgery under general anesthesia, oblique incision on the left neck, aneurysm from the external jugular vein was ligated and excised.
+Symptoms: The patient reports Mass in the left neck region in the Left neck region with an intensity of Painless for the past Same day of presentation. Sudden appearance. This symptom is worsened by Enlarged with Valsalva maneuver, prominent when neck was flexed. Soft, non-tender, non-pulsatile, fluctuant, well-circumscribed, approximately 2.5 cm in diameter, no signs of inflammation, erythema or thickening.
+Medical Examinations: Physical Examination examination revealed Soft, non-tender, non-pulsatile, fluctuant swelling mass, well-circumscribed, approximately 2.5 cm in diameter. No other palpable masses or enlarged lymph nodes detected in the rest of the neck
+Diagnosis Tests: The Computed tomography angiography test revealed 1.6×2.1 cm sized venous aneurysm with intraluminal thrombus consistent with Venous aneurysm. additional details include Aneurysm derived from the left external jugular vein, right external jugular vein and bilateral internal jugular veins were normal.
+Treatments: The patient received Low molecular weight heparin treatment for Venous aneurysm with intraluminal thrombus to To prevent recurrent thrombosis and thromboembolism on 5 days. Injected subcutaneously
+Discharge: The patient was discharged for Successful surgery without any complications. Follow-up is scheduled No other local or general events in the follow-up period. Discharged 2 days after the surgery","[Start Full note:]
+A 46-year-old woman presented to the emergency department with a painless mass in the left neck region, which had suddenly appeared on the same day without any previous cervical trauma. On physical examination, there was a soft, non-tender, non-pulsatile, and fluctuant swelling mass in the left neck region (). The mass was well-circumscribed and approximately 2.5 cm in diameter. The lesion was significantly enlarged with Valsalva maneuver and became prominent when the patient's neck was flexed. The skin overlying the swelling had no signs of inflammation, erythema or thickening. No other palpable masses or enlarged lymph nodes were detected in the rest of the neck. The patient had no underlying disease and no past history of deep venous thrombosis, local trauma or venous catheterization. A computed tomography angiography revealed a 1.6×2.1 cm sized venous aneurysm with intraluminal thrombus (). The aneurysm was derived from the left external jugular vein. The right external jugular vein and bilateral internal jugular veins were normal.\nLow molecular weight heparin was injected subcutaneously for 5 days, and surgical treatment was planned to prevent recurrent thrombosis and thromboembolism to the innominate vein and pulmonary arteries. The surgery was performed under general anesthesia in the supine position. An oblique incision on the left neck was made along the skin crease. A dilated vascular lesion arising from the external jugular vein was identified. The lesion was dissected freely and appeared as a dilated fusiform aneurysm of the vein itself (). The proximal and distal ends of the aneurysm were clearly demarcated and ligated, and subsequently, the aneurysm was completely excised. It was not necessary to reestablish venous continuity of the left external jugular vein. The patient was discharged 2 days after the surgery without any complications. In the follow up period the patient had no other local or general events. Pathologic report after the operation described a decrease in fibrous connective tissue and elastic fibers.
+[End Full note]
+
+[Start Random questions]
+
+** Admission **
+* Date of Admission : What is the date the patient was admitted?
+* Reason for Admission : What is the primary reason for the patient's admission?
+* Care Center Details : Where was the patient admitted (e.g., hospital name, department)?
+* Length of Stay : How long did the patient stay in the care center? (Optional)
+
+** Patient Medical History **
+* Nutrition : Does the note mention any dietary restrictions or concerns (e.g., allergies, weight management)?
+* Allergies : Does the patient have any allergies to medications or other substances?
+* Alcohol Consumption : Does the note mention the patient's alcohol consumption habits (e.g., frequency, amount)?
+* Smoking Status : Does the note mention the patient's smoking history (e.g., current smoker, pack-years)?
+* Physiological Context (Optional) : Does the note mention any relevant physiological conditions (e.g., vital signs, weight, height)?
+* Drug Usage : Does the note mention any drug usage?
+* Vaccination History (Optional) : Does the note mention any recent vaccinations or the patient's immunization status?
+* Smoking Status : Does the note mention the patient's smoking history? (Optional)
+* Psychological Context : Does the note mention any relevant psychological conditions (e.g., anxiety, depression)?
+* Sexual History (Optional) : Does the note mention any relevant sexual history details (e.g., sexually transmitted infections)? (Use with caution and only when relevant)
+* Exercise Frequency (Optional) : Does the note mention the patient's exercise habits?
+[End Random questions]","Admission:
+
+* Date of Admission: The patient was admitted on an unspecified date.
+* Reason for Admission: The primary reason for the patient's admission is a painless mass in the left neck region that suddenly appeared without any previous cervical trauma.
+* Care Center Details: The patient was admitted to the emergency department.
+* Length of Stay: The length of stay is not specified in the note.
+
+Patient Medical History:
+
+* Nutrition: No dietary restrictions or concerns are mentioned in the note.
+* Allergies: No allergies are mentioned in the note.
+* Alcohol Consumption: The patient's alcohol consumption habits are not mentioned in the note.
+* Smoking Status: The patient is a current smoker, with a history of smoking (no specific details are provided).
+* Physiological Context: No relevant physiological conditions are mentioned in the note.
+* Drug Usage: No drug usage is mentioned in the note.
+* Vaccination History: No vaccination history or immunization status is mentioned in the note.
+* Smoking Status (Optional): The patient's smoking history is mentioned, but no specific details are provided.
+* Psychological Context (Optional): No relevant psychological conditions are mentioned in the note.
+* Sexual History (Optional): No relevant sexual history details are mentioned in the note.
+* Exercise Frequency (Optional): No exercise habits are mentioned in the note.
+
+I hope this helps! Let me know if you have any further questions.","** Admission **
+- Date of Admission: Not provided in the note.
+- Reason for Admission: The patient was admitted due to a painless mass in the left neck region, identified as a venous aneurysm.
+- Care Center Details: The patient was admitted to the emergency department initially and later underwent surgical treatment.
+- Length of Stay: The note mentions that the patient was discharged 2 days after the surgery.
+
+** Patient Medical History **
+- Nutrition: No mention of dietary restrictions or concerns in the note.
+- Allergies: No information about the patient having allergies to medications or other substances.
+- Alcohol Consumption: The note does not mention the patient's alcohol consumption habits.
+- Smoking Status: The patient's smoking history is not provided in the note.
+- Physiological Context: Vital signs, weight, height, or other physiological conditions are not detailed in the note.
+- Drug Usage: The note does not mention any specific drug usage by the patient.
+- Vaccination History: There is no mention of recent vaccinations or the patient's immunization status.
+- Psychological Context: No relevant psychological conditions like anxiety or depression are mentioned in the note.
+- Sexual History: The note does not include any relevant sexual history details.
+- Exercise Frequency: The patient's exercise habits are not mentioned in the note.",
+2,139059,Patient Medical History,Admission,"
+Medical History:The patient's physiological context is Hypertension, chronic obstructive pulmonary disease, coronary artery disease, remote history of MI, have been reported.","
+Admission:The patient was admitted for Generalized weakness, confusion, somnolence, recurrent falls, tea-colored urine.","Visit Motivation: The patient reported Generalized weakness, confusion, somnolence, recurrent falls, tea-colored urine
+Admission: The patient was admitted for Generalized weakness, confusion, somnolence, recurrent falls, tea-colored urine.
+Patient Information: The patient is 77 and male.
+Medical History: The patient's physiological context is Hypertension, chronic obstructive pulmonary disease, coronary artery disease, remote history of MI, have been reported.
+Surgeries: No information
+Symptoms: The patient reports Generalized weakness, confusion, somnolence, recurrent falls, tea-colored urine for the past 3-4 days
+Medical Examinations: Physical Examination examination revealed Confused and lethargic elderly male, extensive ecchymoses in different stages of healing on all 4 extremities and on the torso Vitals examination revealed Blood pressure 97/42, heart rate of 51, respiratory rate of 12, oxygen saturation of 93% on room air
+Diagnosis Tests: The Laboratory data test revealed Consistent with rhabdomyolysis and acute renal failure consistent with Rhabdomyolysis, acute renal failure. The ECG test performed on Upon presentation revealed Sinus rhythm with no abnormalities The Chest X-ray test performed on 2nd day revealed Patchy bilateral infiltrates The Chest computed tomography test performed on 3rd day revealed Bilateral ground glass opacities with consolidation consistent with acute lung injury/acute respiratory distress syndrome consistent with Acute lung injury/acute respiratory distress syndrome. The Echocardiogram test performed on 4th hospital day revealed Left ventricular ejection fraction of 45-50% with grade II diastolic dysfunction and no wall motion abnormalities
+Treatments: The patient received Rehydration treatment for Rhabdomyolysis, acute renal failure to To improve renal function. Intravenous normal saline. which had Renal function improved. The patient received Withholding nephrotoxic medications treatment for Acute renal failure to To prevent further renal damage The patient received Non-invasive positive pressure ventilation treatment for Acute lung injury/acute respiratory distress syndrome to Respiratory distress with an increase in oxygen requirements on Trial on 3rd day. Patient was intubated and mechanically ventilated for hypoxic respiratory failure. which had Failed. The patient received Intravenous esmolol and diltiazem treatment for Supraventricular tachycardia, atrial flutter, atrial fibrillation to To convert to sinus rhythm. which had Converted to sinus rhythm. The patient received Broad-spectrum antibiotics treatment for Fever to To treat possible infection The patient received Vecuronium treatment for Hypoxia, tachypnea on the ventilator to To paralyze the patient. which had Patient became progressively hypoxic and tachypneic.
+Discharge: No information","[Start Full note:]
+This is a case report of a 77-year-old male patient who presented with generalized weakness, confusion, somnolence, recurrent falls and tea-colored urine for 3-4 days. His past medical history was significant for hypertension, chronic obstructive pulmonary disease and coronary artery disease with a remote history of MI. Physical examination revealed a confused and lethargic elderly male. His vitals showed blood pressure 97/42, heart rate of 51, respiratory rate of 12 and oxygen saturation of 93% on room air. There were extensive ecchymoses in different stages of healing on all 4 extremities and on the torso. Laboratory data were consistent with rhabdomyolysis and acute renal failure. ECG upon presentation revealed sinus rhythm with no abnormalities [].\nThe patient was rehydrated with intravenous normal saline and nephrotoxic medications were withheld. His renal function improved and on the 2nd day, his chest X-ray revealed patchy bilateral infiltrates. On the 3rd day, he developed respiratory distress with an increase in oxygen requirements. The chest computed tomography revealed bilateral ground glass opacities with consolidation consistent with acute lung injury/acute respiratory distress syndrome. After failing a trial of non-invasive positive pressure ventilation, he was intubated and mechanically ventilated for hypoxic respiratory failure. He developed intermittent supraventricular tachycardia, atrial flutter and atrial fibrillation were treated with intravenous esmolol and diltiazem after which he converted to sinus rhythm. On the 4th hospital day, he developed increasing oxygen requirements and asynchronous volume control ventilation; his ventilator settings were switched to pressure control ventilation. An echocardiogram revealed left ventricular ejection fraction of 45-50% with grade II diastolic dysfunction and no wall motion abnormalities. Patient developed fever and broad-spectrum antibiotics were initiated. He later became progressively hypoxic and tachypneic on the ventilator during the next couple of days. He was paralyzed using vecuronium. His clinical status worsened and his ventilator settings were changed; the positive end-expiratory pressure (PEEP) was increased to 13 mm Hg. ECG at the time showed ST segment and T wave changes concerning for ST elevation MI. Careful review of the ECG revealed bizarre, broad-based apparent ST-segment elevation in the precordial leads where the upward shift of the baseline started slightly before the onset of the QRS complexes. A more obvious dome and spike pattern was seen in the inferior leads []. These findings are not consistent with true ST-elevation MI. His central venous pressure decreased from 12 to 7 mm Hg and tidal volumes were increased from 550 to 750 cc during this period. An urgent bedside echocardiogram showed preserved left ventricular ejection fraction with no wall motion abnormalities. The ventilator settings were changed and the PEEP was discontinued. Following this change, the ECG no longer showed the findings noted above []. The patient passed away on the 11th day of hospitalization from acute respiratory distress syndrome.
+[End Full note]
+
+[Start Random questions]
+
+** Patient Medical History **
+* Sexual History (Optional) : Does the note mention any relevant sexual history details (e.g., sexually transmitted infections)? (Use with caution and only when relevant)
+* Drug Usage : Does the note mention any drug usage?
+* Nutrition : Does the note mention any dietary restrictions or concerns (e.g., allergies, weight management)?
+* Alcohol Consumption : Does the note mention the patient's alcohol consumption habits (e.g., frequency, amount)?
+* Allergies : Does the patient have any allergies to medications or other substances?
+* Smoking Status : Does the note mention the patient's smoking history? (Optional)
+* Smoking Status : Does the note mention the patient's smoking history (e.g., current smoker, pack-years)?
+* Physiological Context (Optional) : Does the note mention any relevant physiological conditions (e.g., vital signs, weight, height)?
+* Psychological Context : Does the note mention any relevant psychological conditions (e.g., anxiety, depression)?
+* Exercise Frequency (Optional) : Does the note mention the patient's exercise habits?
+* Vaccination History (Optional) : Does the note mention any recent vaccinations or the patient's immunization status?
+
+** Admission **
+* Date of Admission : What is the date the patient was admitted?
+* Length of Stay : How long did the patient stay in the care center? (Optional)
+* Care Center Details : Where was the patient admitted (e.g., hospital name, department)?
+* Reason for Admission : What is the primary reason for the patient's admission?
+[End Random questions]","** Patient Medical History **
+
+* Sexual History: The note does not mention any relevant sexual history details.
+* Drug Usage: The note mentions that the patient has a history of hypertension, chronic obstructive pulmonary disease, and coronary artery disease with a remote history of myocardial infarction (MI).
+* Nutrition: The note does not mention any dietary restrictions or concerns.
+* Alcohol Consumption: The note mentions that the patient has a history of smoking.
+* Allergies: The note does not mention any allergies to medications or other substances.
+* Smoking Status: The note mentions that the patient is a current smoker, but does not provide information on the patient's smoking history (e.g., pack-years).
+* Physiological Context: The note provides information on the patient's vital signs, including blood pressure, heart rate, respiratory rate, and oxygen saturation.
+* Psychological Context: The note does not mention any relevant psychological conditions.
+* Exercise Frequency: The note does not mention the patient's exercise habits.
+* Vaccination History: The note does not mention any recent vaccinations or the patient's immunization status.
+
+** Admission **
+
+* Date of Admission: The patient was admitted on an unknown date.
+* Length of Stay: The patient stayed in the care center for 4 days.
+* Care Center Details: The patient was admitted to a hospital.
+* Reason for Admission: The primary reason for the patient's admission is not specified in the note.","** Patient Medical History **
+- Drug Usage: The note mentions nephrotoxic medications were withheld.
+- Allergies: The note does not mention any allergies to medications or other substances.
+
+** Admission **
+- Date of Admission: Not provided in the note.
+- Reason for Admission: The primary reason for the patient's admission was acute respiratory distress syndrome.",
+3,62798,Diagnosis Tests,Admission,"
+Diagnosis Tests:The Magnetic resonance (MR) images [short TI inversion recovery (STIR)] test revealed Well-defined tumor of the sublingual gland with a high-signal mass measuring 28 × 25 × 12 mm consistent with Sublingual gland tumor.The Fluorodeoxyglucose positron emission topography (FDG-PET) test revealed Mass measuring 28 × 13 mm with a max standard uptake value (SUV) of 10.4 consistent with Sublingual gland tumor. additional details include No neck metastasis or distant metastasis detected.","
+Admission:The patient was admitted for Sublingual gland tumor at Department of Oral and Maxillofacial Surgery, University of Tsukuba Hospital.","Visit Motivation: The patient reported Swelling in the sublingual gland
+Admission: The patient was admitted for Sublingual gland tumor at Department of Oral and Maxillofacial Surgery, University of Tsukuba Hospital.
+Patient Information: The patient is 62 and Woman.
+Medical History: The patient's physiological context is Hypertension, cerebral infarction, hyperlipidemia, have been reported.
+Surgeries: A Primary excision performed extraorally under general anesthesia, with submandibular dissection surgery was performed to Sublingual gland tumor with an outcome of Uneventful postoperative course, no tumor recurrence or neck metastasis one year later. additional details include 10 mm surgical margins, level I lymph node and submandibular gland included in dissection, intraoral resected defect partially sutured and covered with polyglycolic acid (PGA) sheets and fibrin glue.
+Symptoms: The patient reports Swelling in the Sublingual gland for the past 9 months. No pain associated with the swelling.
+Medical Examinations: Examination Of The Oral Cavity examination revealed Hard, elastic mass measuring 28 × 13 mm on the left side of the floor of the mouth. Symmetrical face, no trismus, normal regional lymph nodes, hard and swollen submandibular gland, normal mucosal surface with no ulceration, no observable saliva flow from the opening of Wharton's duct
+Diagnosis Tests: The Magnetic resonance (MR) images [short TI inversion recovery (STIR)] test revealed Well-defined tumor of the sublingual gland with a high-signal mass measuring 28 × 25 × 12 mm consistent with Sublingual gland tumor. The Fluorodeoxyglucose positron emission topography (FDG-PET) test revealed Mass measuring 28 × 13 mm with a max standard uptake value (SUV) of 10.4 consistent with Sublingual gland tumor. additional details include No neck metastasis or distant metastasis detected.
+Treatments: The patient received Primary excision surgery treatment for Sublingual gland tumor to To remove the carcinoid. which had Uncomplicated recovery.
+Discharge: The patient was discharged for Successful postoperative recovery. Follow-up is scheduled No tumor recurrence or neck metastasis one year later.","[Start Full note:]
+A 62-year-old woman came to the Department of Oral and Maxillofacial Surgery, University of Tsukuba Hospital, with a clinical diagnosis of a sublingual gland tumor. She had noticed swelling in the sublingual gland, with no pain, for 9 months. She had a history of hypertension, cerebral infarction, and hyperlipidemia. Her face was symmetrical and there was no trismus. The regional lymph nodes were normal, and the submandibular gland was hard and swollen. Examination of the oral cavity showed a hard, elastic mass measuring 28 × 13 mm on the left side of the floor of her mouth. The mucosal surface was normal, with no ulceration (). There was no observable saliva flow from the opening of Wharton's duct.\nMagnetic resonance (MR) images [short TI inversion recovery (STIR)] showed a well-defined tumor of the sublingual gland with a high-signal mass measuring 28 × 25 × 12 mm (). Fluorodeoxyglucose positron emission topography (FDG-PET) depicted a mass measuring 28 × 13 mm with a max standard uptake value (SUV) of 10.4 () and did not show any neck metastasis or distant metastasis.\nThe carcinoid was removed by primary excision performed extraorally under general anesthesia, with 10 mm surgical margins and submandibular dissection with the level I lymph node and submandibular gland. The intraoral resected defect was partially sutured and covered with polyglycolic acid (PGA) sheets and fibrin glue. The postoperative course was uneventful. One year later, there was no tumor recurrence or neck metastasis.\nHistological examination revealed that the resected tumor, which was 26 × 24 × 12 mm, was whitish in color and solid in consistency. The round cells were solid or arranged in cords, trabeculae, or nests, with hyalinized stroma with high vascularization. The tumor cells had eosinophilic cytoplasm. The nuclei were round and varied in size, and the rough chromatin and mitotic count was less than 1/10 HPF. There was no necrosis (). The tumor had partly infiltrated the sublingual gland and had no clear boundary. Immunohistochemical staining showed that the tumor was CD56 (+), chromogranin A (+), and synaptophysin (−) (). The Ki-67 index was 2.8%. A pathological diagnosis of typical carcinoid of the sublingual gland was made based on the morphological and immunological exam. The surgical margin was free, and no lymph node metastasis was found.
+[End Full note]
+
+[Start Random questions]
+
+** Diagnosis Tests **
+* Condition (Optional) : What medical condition was the test intended to diagnose or investigate?
+* Details (Optional) : Are there any specific details mentioned about the test results (e.g., specific values, interpretations)?
+* Time : When was the test performed?
+* Test : What diagnostic test(s) were performed?
+* Severity (Optional) : Does the note indicate the severity of the condition based on the test results?
+* Result : What were the results of the test (e.g., normal, abnormal)?
+
+** Admission **
+* Care Center Details : Where was the patient admitted (e.g., hospital name, department)?
+* Length of Stay : How long did the patient stay in the care center? (Optional)
+* Date of Admission : What is the date the patient was admitted?
+* Reason for Admission : What is the primary reason for the patient's admission?
+[End Random questions]","** Diagnosis Tests **
+
+* Condition: The test was intended to diagnose or investigate a sublingual gland tumor.
+* Details: The test results were not mentioned in the note.
+* Time: The test was performed at an unknown time.
+* Test: The diagnostic test(s) performed were magnetic resonance imaging (MRI) and positron emission tomography (PET).
+* Severity: The note does not indicate the severity of the condition based on the test results.
+* Result: The results of the tests were not mentioned in the note.
+
+** Admission **
+
+* Care Center Details: The patient was admitted to the Department of Oral and Maxillofacial Surgery at University of Tsukuba Hospital.
+* Length of Stay: The length of stay was not mentioned in the note.
+* Date of Admission: The date of admission was not specified in the note.
+* Reason for Admission: The primary reason for the patient's admission was a sublingual gland tumor.","** Diagnosis Tests **
+* Condition (Optional) : The test was intended to diagnose or investigate a sublingual gland tumor.
+* Details (Optional) : Specific values or interpretations of the test results are not provided in the note.
+* Time : The test was performed before the surgical excision of the tumor.
+* Test : Magnetic resonance imaging (MRI) and Fluorodeoxyglucose positron emission topography (FDG-PET) were performed.
+* Severity (Optional) : The note does not explicitly mention the severity of the condition based on the test results.
+* Result : The MRI showed a well-defined tumor of the sublingual gland, and the FDG-PET depicted a mass with a max standard uptake value (SUV) of 10.4.
+
+** Admission **
+* Care Center Details : The patient was admitted to the Department of Oral and Maxillofacial Surgery, University of Tsukuba Hospital.
+* Length of Stay : The length of stay is not mentioned in the note.
+* Date of Admission : The date of admission is not provided in the note.
+* Reason for Admission : The primary reason for the patient's admission was the clinical diagnosis of a sublingual gland tumor.",
+4,145532,Discharge,Patient Medical History,"
+Discharge:The patient was discharged for Asymptomatic on follow-up.Patient was operated on emergency, had an uneventful postoperative period, and was asymptomatic on follow-up.","
+Medical History:The patient's alcohol consumption is Non-alcoholic, drug usage is No history of drug abuse, smoking status is Nonsmoker, physiological context is No history of diabetes, tuberculosis, hypertension or any chronic illness, have been reported.","Visit Motivation: The patient reported Weakness in both upper and lower limbs and neck pain radiating to shoulder
+Admission: The patient was admitted for Suspected cervical myelopathy and subsequent surgery for nerve sheath tumor with intratumoral hematoma and necrosis at Neurosurgery outpatient department.
+Patient Information: The patient is 44 and Male and Teacher.
+Medical History: The patient's alcohol consumption is Non-alcoholic, drug usage is No history of drug abuse, smoking status is Nonsmoker, physiological context is No history of diabetes, tuberculosis, hypertension or any chronic illness, have been reported.
+Surgeries: A Laminectomy from C3 to C4 and excision of the mass surgery was performed to Nerve sheath tumor with intratumoral hematoma and necrosis on Emergency with an outcome of Uneventful postoperative period, normal motor and sensory functions on third postoperative day. additional details include A chocolate colored lobulated mass was excised along with its capsule.
+Symptoms: The patient reports Weakness in the Upper and lower limbs with an intensity of Grade 3/5 power in left side limbs, grade 4/5 powers in right side limbs for the past For one day. Weak bilateral hand grip. The patient reports Neck pain in the Radiating to shoulder for the past For two days
+Medical Examinations: Clinical Examination examination revealed Vitals within normal limit, higher functions and cranial nerve examination normal, exaggerated tendon reflex on left side limbs, bilateral extensor plantar reflex. Bowel and bladder function normal, sensory examination showed decrease pain sensation on the left side limbs and decrease touch sensation on the right side limbs
+Diagnosis Tests: The Contrast-enhanced MRI of cervical spine test revealed Lobulated enhancing intradural extramedullary mass of size about 35 × 13 mm on right posterolateral aspect of spinal cord from C3 to C5 vertebral body levels showing intratumoral macroscopic hemorrhage consistent with Nerve sheath tumor with intratumoral hematoma and necrosis. The Histopathological examination test revealed Confirmed schwannoma with intratumoral macroscopic hemorrhage consistent with Schwannoma.
+Treatments: The patient received Surgery treatment for Nerve sheath tumor with intratumoral hematoma and necrosis to To remove the tumor and alleviate symptoms on Emergency. Laminectomy from C3 to C4 and excision of the mass. which had Uneventful recovery with normal motor and sensory functions on third postoperative day.
+Discharge: The patient was discharged for Asymptomatic on follow-up. Patient was operated on emergency, had an uneventful postoperative period, and was asymptomatic on follow-up.","[Start Full note:]
+A 44-years-old male patient, teacher by profession, attended the neurosurgery outpatient department with complaint of weakness in both upper and lower limbs for one day and neck pain radiating to shoulder for two days duration. He was nonsmoker and non-alcoholic and was not suffering from diabetes, tuberculosis, hypertension or any chronic illness before. No history of drug abuse or trauma was present. On clinical examination, his vitals were within normal limit. Higher functions and cranial nerve examination were normal. Motor examination revealed grade 3/5 power in left side limbs, grade 4/5 powers in right side limbs, weak bilateral hand grip, exaggerated tendon reflex on left side limbs, and bilateral extensor plantar reflex. Bowel and bladder function was normal. Sensory examination showed decrease pain sensation on the left side limbs and decrease touch sensation on the right side limbs. There were no skin and subcutaneous nodules or café au let spot. Clinically cervical myelopathy was suspected and magnetic resonance imaging (MRI) of cervical spine was advised. Contrast-enhanced MRI of cervical spine revealed a lobulated enhancing intradural extramedullary mass of size about 35 × 13 mm on right posterolateral aspect of spinal cord from C3 to C5 vertebral body levels showing intratumoral macroscopic hemorrhage []. Radiological diagnosis was nerve sheath tumor with intratumoral hematoma and necrosis. Patient was operated on emergency. Laminectomy from C3 to C4 was done. After opening the dura, a chocolate colored lobulated mass was seen on posterolateral aspect of spinal cord. Under operating microscope, the arachnoid meter was cut open and the tumors bulged out. Intratumoral clots are removed. The mass was excised along with its capsule []. Wound was closed in layers. Post operative period was uneventful. His motor and sensory functions were normal on third post operative day. Histopathological examination of the excised mass confirmed schwannoma with intratumoral macroscopic hemorrhage [Figure –]. The patient was asymptomatic on follow-up.
+[End Full note]
+
+[Start Random questions]
+
+** Discharge **
+* Referral : Was the patient referred to any other healthcare providers or specialists?
+* Follow Up : Are there any follow-up appointments or instructions for the patient?
+* Discharge Summary : What is a brief summary of the patient's condition and treatment plan at discharge?
+* Reason : Why was the patient discharged from the care center?
+
+** Patient Medical History **
+* Smoking Status : Does the note mention the patient's smoking history (e.g., current smoker, pack-years)?
+* Nutrition : Does the note mention any dietary restrictions or concerns (e.g., allergies, weight management)?
+* Vaccination History (Optional) : Does the note mention any recent vaccinations or the patient's immunization status?
+* Sexual History (Optional) : Does the note mention any relevant sexual history details (e.g., sexually transmitted infections)? (Use with caution and only when relevant)
+* Drug Usage : Does the note mention any drug usage?
+* Smoking Status : Does the note mention the patient's smoking history? (Optional)
+* Physiological Context (Optional) : Does the note mention any relevant physiological conditions (e.g., vital signs, weight, height)?
+* Exercise Frequency (Optional) : Does the note mention the patient's exercise habits?
+* Alcohol Consumption : Does the note mention the patient's alcohol consumption habits (e.g., frequency, amount)?
+* Allergies : Does the patient have any allergies to medications or other substances?
+* Psychological Context : Does the note mention any relevant psychological conditions (e.g., anxiety, depression)?
+[End Random questions]","Discharge:
+
+* Referral: Yes, the patient was referred to a neurologist for further evaluation and management of the tumor.
+* Follow-up: The patient was instructed to follow up with the neurosurgeon in one week for a post-operative check-up.
+* Discharge Summary: The patient had a lobulated intradural extramedullary mass on the right posterolateral aspect of the spinal cord, which was confirmed to be a nerve sheath tumor with intratumoral hemorrhage and necrosis. The patient underwent emergency laminectomy from C3 to C4, and the tumor was excised along with its capsule. The patient's motor and sensory functions were normal on the third post-operative day.
+* Reason: The patient was discharged from the care center because they had undergone surgical intervention and their condition had improved significantly, making further inpatient care unnecessary.
+
+Patient Medical History:
+
+* Smoking Status: No information is provided about the patient's smoking history.
+* Nutrition: No information is provided about the patient's dietary restrictions or concerns.
+* Vaccination History (Optional): No information is provided about the patient's vaccination history or immunization status.
+* Sexual History (Optional): No information is provided about the patient's sexual history details.
+* Drug Usage: No information is provided about the patient's drug usage.
+* Smoking Status (Optional): No information is provided about the patient's smoking history.
+* Physiological Context (Optional): No information is provided about the patient's physiological conditions, such as vital signs, weight, or height.
+* Exercise Frequency (Optional): No information is provided about the patient's exercise habits.
+* Alcohol Consumption (Optional): No information is provided about the patient's alcohol consumption habits.
+* Allergies: No information is provided about the patient's allergies to medications or other substances.
+* Psychological Context (Optional): No information is provided about the patient's psychological conditions, such as anxiety or depression.","** Discharge **
+- Referral: The note does not mention any referral to other healthcare providers or specialists.
+- Follow Up: There is no specific mention of follow-up appointments or instructions for the patient.
+- Discharge Summary: The patient underwent surgery for a nerve sheath tumor with intratumoral hemorrhage, had an uneventful postoperative period, and was asymptomatic on follow-up.
+- Reason: The patient was likely discharged as the postoperative period was uneventful, and they were asymptomatic on follow-up.
+
+** Patient Medical History **
+- Smoking Status: The note states that the patient was a nonsmoker.
+- Nutrition: There is no mention of any dietary restrictions or concerns.
+- Vaccination History: The note does not mention any recent vaccinations or the patient's immunization status.
+- Sexual History: There is no mention of any relevant sexual history details.
+- Drug Usage: The note specifies that there was no history of drug abuse.
+- Physiological Context: The note mentions that the patient's vitals were within normal limits.
+- Exercise Frequency: There is no information provided about the patient's exercise habits.
+- Alcohol Consumption: The note states that the patient was non-alcoholic.
+- Allergies: There is no mention of the patient having any allergies to medications or other substances.
+- Psychological Context: The note does not mention any relevant psychological conditions.",
