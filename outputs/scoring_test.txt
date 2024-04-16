@@ -1,0 +1,45 @@
+True:
+Diagnosis Tests: The Pelvic radiography test performed on 1 month before the presentation revealed Osseous mass related to the right femur neck The Computed tomography scan (CT scan) test revealed Right femoral neck posterior-inferior osseous mass with cortical and medullary continuity on the axial view The MRI – sagittal short tau inversion recovery fast spin-echo (SAG STIR fast IR) test revealed Posterior relation of the OC to the femur neck, and the high intensity cap which goes with the diagnosis of OC consistent with OC. The MRI – sagittal view T test revealed Incomplete data additional details include The result of the test is not fully provided in the clinical note
+
+Symptoms:The patient reports Gluteal pain in the Right gluteal area to the posterior side of the thigh for the past For 2 years. Increased over time. This symptom is worsened by Exacerbated on walking, relief with rest, no night pain. Burning sensation, progressive limitation of right hip extension affecting daily activities. The patient reports Unusual hard mass in the Right gluteal area for the past For 2 years
+
+
+
+LLAMA 2:
+** Diagnosis Tests **
+
+* Test: MRI - sagittal view T1 in (a) and T2 in (b), showing the posterior relationship of the OC to the right femur neck.
+* Severity: The test results indicate a high intensity cap on the axial view, which confirms the diagnosis of OC.
+* Time: The MRI was performed 1 month before the presentation.
+* Details: The test results show the posterior relationship of the OC to the right femur neck and a high intensity cap, which are indicative of osteochondroma.
+* Condition: The test was intended to diagnose osteochondroma.
+* Result: The result of the MRI was consistent with the diagnosis of osteochondroma.
+
+** Symptoms **
+
+* Details: The patient reported a burning sensation in the gluteal area and a progressive limitation of right hip extension.
+* Intensity of Symptom: The symptoms are moderate in intensity.
+* Time: The symptoms have been present for 2 years before the presentation.
+* Temporalisation: The symptoms have been gradually increasing over time.
+* Name of Symptom: The patient reported a burning sensation in the gluteal area and a limitation of right hip extension.
+* Location: The symptoms are located in the gluteal area and the right hip joint.
+* Behaviors Affecting Symptom: The patient has been receiving physical therapy and core body exercises to manage the symptoms, but with minimal benefit.
+
+
+ChatGPT:
+** Diagnosis Tests **
+- Test : Computed tomography scan (CT scan) and MRI (magnetic resonance imaging).
+- Time : The CT scan and MRI were performed before the patient's presentation to the Department of Orthopedic Surgery.
+- Condition (Optional) : The tests were intended to investigate the osseous mass related to the right femur neck.
+- Result : The CT scan showed a right femoral neck posterior-inferior osseous mass with cortical and medullary continuity. The MRI showed the posterior relation of the osseous mass to the femur neck, with a high-intensity cap consistent with the diagnosis of osteochondroma (OC).
+
+** Symptoms **
+- Details (Optional) : The patient reported right gluteal pain and a feeling of an unusual hard mass for 2 years. The pain was described as a burning sensation radiating from the gluteal area to the posterior side of the thigh. There was also a progressive limitation of right hip extension.
+- Intensity of Symptom : The pain was described as insidious and increased over time.
+- Time : The symptoms started 2 years before the patient's presentation.
+- Temporalisation : The pain was exacerbated on walking but relieved with rest, and there was no night pain.
+- Name of Symptom : Right gluteal pain, feeling of unusual hard mass, burning sensation, progressive limitation of right hip extension.
+- Location : Gluteal area, posterior side of the thigh.
+- Behaviors Affecting Symptom : The pain was exacerbated on walking but relieved with rest.
+
+
