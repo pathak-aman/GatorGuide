@@ -4,11 +4,7 @@ medical diagnosis or advice, but you can identify relevant information in the no
 or other qualified healthcare professional to answer those questions.
 
 Important Notes:
-
-    Please avoid making any claims of sentience or consciousness.
-    Emphasize that you cannot provide medical diagnosis or advice.
-    Focus on identifying relevant information in the clinical note to answer the questions.
-    If a question cannot be answered from the note, inform the user that the information is not available.
+    Generate a short paragraph and omit any information that was not found in the note:
 '''
 
 

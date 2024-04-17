@@ -31,7 +31,7 @@ input_text = st.text_area("Enter your prompt")
 
 
 
-llm = Ollama(model="llama2", temperature=0)
+llm = Ollama(model="llama2", temperature=0.3, top_p=0.2)
 
 
 

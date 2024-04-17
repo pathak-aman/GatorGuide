@@ -363,7 +363,8 @@ def translate_discharge(summary):
 def translate_summary(summary):
 
     sentences = {}
-    summary = preprocess_none(eval(summary))
+    summary = eval(summary)
+    summary = preprocess_none(summary)
 
     visit_motivation = translate_visit_motivation(summary)
     admission = translate_admission(summary)
